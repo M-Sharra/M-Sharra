@@ -15,16 +15,11 @@ As an Economics graduate, I apply data analysis tools and economic intuition to 
 
 ### ✨&nbsp; Technical Skills & Profile
 
-I work with data tools to clean, model, and visualize data. My objective is to help teams understand their sales performance, product diversification, and regional demand by delivering straightforward data stories and interactive dashboards.
+- **Business & Time-Series Forecasting:** Utilizing Microsoft Excel and Python for predictive analysis and trend evaluation.
+- **Data Visualization & Dashboards:** Building interactive reports and data models using Power BI and Advanced Excel (Power Query, Power Pivot).
+- **Data Querying & Processing:** Writing SQL queries for data extraction and leveraging Databricks for cloud data environments.
+- **Data Storytelling:** Translating structured numbers into factual business insights to support decision-making.
 
-____        __          ___                __             __ 
-/ __ ____ / /____ _  /   |  ____  ____ / /  __ _____ / /_
-/ / / / __ / __/ __ / / /| | / __ / __ `/ / / / / // __/
-/ // / // / // // / / ___ |/ / / / // / / // (__  )/ /
-
-/_____/_,/_/_,/ //  |// //_,//_, // _/
-
-/__/
 
 
 ---
@@ -69,13 +64,4 @@ ____        __          ___                __             __
   </ul>
 </details>
 
-<details>
-  <summary><b>🧠&nbsp;&nbsp;Business & Operational Insights Focus</b></summary>
-  <br/>
-  <p>In my analysis, I look at key business metrics to identify operational strengths and risks:</p>
-  <ul>
-    <li><b>Revenue Concentration:</b> Assessing portfolio diversification to ensure the business isn't overly dependent on a few top products or customers.</li>
-    <li><b>Purchasing Behavior:</b> Breaking down metrics like Average Order Value (AOV) and unit price trends to understand changes in sales performance.</li>
-    <li><b>Operational Features:</b> Engineering context-specific data points (like Weekday vs. Weekend splits and custom Price Types) to find targeted growth opportunities.</li>
-  </ul>
-</details>
+ 
