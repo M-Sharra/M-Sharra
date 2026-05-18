@@ -1,48 +1,22 @@
-# Hi there, I'm Mohamed Sharra! 👋
-### Junior Data Analyst | Supply Chain Enthusiast 📊✈️
+### Hi there, I'm Mohamed Sharra (محمد شرًع)! <a href="https://www.linkedin.com/in/mohamed-sharra/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+**Economics Graduate | Data Analyst | Supply Chain Enthusiast** 📊✈️
 
-A detail-oriented Data Analyst with a solid background in economics and a passion for optimizing supply chain operations. I leverage data science and analytical tools to transform complex datasets into actionable insights, helping businesses streamline logistics, improve forecasting, and reduce costs.
+As an Economics graduate, I apply data analysis tools and economic intuition to evaluate business performance. I am focused on Supply Chain Analytics and Data Storytelling, transforming transactional and operational datasets into clear, factual insights that support inventory management, marketing strategy, and business planning.
 
----
-
-### 🚀 What I Do
-- **Supply Chain Analytics:** Applying forecasting models (Moving Averages, Exponential Smoothing) and evaluating error metrics (MAE, RMSE) to optimize inventory and demand.
-- **Data Modeling & Visualization:** Building interactive dashboards that tell a story and support executive decision-making.
-- **Advanced Analytics:** Writing clean, efficient SQL queries and Python scripts for data cleaning, EDA, and machine learning.
+- 🌱 &nbsp;I’m currently focused on expanding my knowledge in: **Demand Planning and Supply Chain Logistics Metrics**
+- 💬 &nbsp;Ask me about: **Data Modeling (Power Pivot), Data Transformation (Power Query), and Sales Analytics**
+- ⚡ &nbsp;Fun fact: **With my economics background, analyzing revenue distribution and market trends feels natural to me.**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+🔗 &nbsp;**Connect with me:**
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Data Analysis & ML** | Python (`Pandas`, `NumPy`, `Scikit-learn`) |
-| **Business Intelligence** | Power BI (DAX, Power Query, Data Modeling) |
-| **Databases** | SQL |
-| **Spreadsheets** | Microsoft Excel (Advanced, Pivot Tables) |
+| LinkedIn Profile | Professional Email |
+| :---: | :---: |
+| <a href="https://www.linkedin.com/in/mohamed-sharra/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"></a> | <a href="mailto:mohamed.sharra.analytics@gmail.com"><img src="https://api.iconify.design/logos-google-gmail.svg" width="40"></a> |
 
 ---
 
-### 📈 Featured Projects
+### ✨&nbsp; Technical Skills & Profile
 
-#### 1. [اسم مشروع قوي في سلاسل الإمداد]
-- **Description:** A brief sentence of what the project does (e.g., Demand forecasting model using Python to optimize warehouse inventory).
-- **Tools:** Python, Scikit-learn, Pandas.
-- **[View Project Link]**
-
-#### 2. [اسم مشروع Power BI]
-- **Description:** Interactive dashboard analyzing logistics performance, delivery times, and vendor reliability.
-- **Tools:** Power BI, Power Query, DAX.
-- **[View Project Link]**
-
----
-
-### 🎓 Certifications & Continuous Learning
-- **Supply Chain Analytics Specialization** – Coursera
-- Actively refining skills in Business Analysis and Predictive Analytics.
-
----
-
-### 📫 Connect with me:
-- **LinkedIn:** [لينك حسابك]
-- **Email:** [إيميلك الرسمي]
+I work with data tools to clean, model, and visualize data. My objective is to help teams understand their sales performance, product diversification, and regional demand by delivering straightforward data stories and interactive dashboards.
