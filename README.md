@@ -3,20 +3,79 @@
 
 As an Economics graduate, I apply data analysis tools and economic intuition to evaluate business performance. I am focused on Supply Chain Analytics and Data Storytelling, transforming transactional and operational datasets into clear, factual insights that support inventory management, marketing strategy, and business planning.
 
-- 🌱 &nbsp;I’m currently focused on expanding my knowledge in: **Demand Planning and Supply Chain Logistics Metrics**
-- 💬 &nbsp;Ask me about: **Data Modeling (Power Pivot), Data Transformation (Power Query), and Sales Analytics**
-- ⚡ &nbsp;Fun fact: **With my economics background, analyzing revenue distribution and market trends feels natural to me.**
-
 ---
 
 🔗 &nbsp;**Connect with me:**
 
 | LinkedIn Profile | Professional Email |
 | :---: | :---: |
-| <a href="https://www.linkedin.com/in/mohamed-sharra/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"></a> | <a href="mailto:mohamed.sharra.analytics@gmail.com"><img src="https://api.iconify.design/logos-google-gmail.svg" width="40"></a> |
+| <a href="https://www.linkedin.com/in/mohamed-sharra/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"></a> | <a href="mailto:mohamedmedommahmed@gmail.com"><img src="https://api.iconify.design/logos-google-gmail.svg" width="40"></a> |
 
 ---
 
 ### ✨&nbsp; Technical Skills & Profile
 
 I work with data tools to clean, model, and visualize data. My objective is to help teams understand their sales performance, product diversification, and regional demand by delivering straightforward data stories and interactive dashboards.
+
+____        __          ___                __             __ 
+/ __ ____ / /____ _  /   |  ____  ____ / /  __ _____ / /_
+/ / / / __ / __/ __ / / /| | / __ / __ `/ / / / / // __/
+/ // / // / // // / / ___ |/ / / / // / / // (__  )/ /
+
+/_____/_,/_/_,/ //  |// //_,//_, // _/
+
+/__/
+
+
+---
+
+### 📈 Completed Projects
+
+#### 1. 🚀 [Restaurant Sales Analysis Using Databricks & Power BI](https://www.linkedin.com/posts/mohamed-sharra_dataanalytics-powerbi-databricks-activity-7450282459201564672-B_8G)
+- **Description:** Analyzed a transactional dataset containing over **11 Million rows**. I utilized **Databricks** for cloud data processing, wrote **SQL queries** to join **7 relational tables**, and built a structured **Power BI** dashboard to visualize operational trends.
+- **Tools Used:** Databricks, SQL, Power BI, Data Modeling.
+- **[View LinkedIn Post](https://www.linkedin.com/posts/mohamed-sharra_dataanalytics-powerbi-databricks-activity-7450282459201564672-B_8G)**
+
+#### 2. 📉 [End-to-End Sales Performance & Revenue Concentration Analysis](https://www.linkedin.com/posts/mohamed-sharra_dataanalysis-salesanalytics-datainsights-activity-7435695439204614145-EBsh)
+- **Description:** An end-to-end sales analysis (2011–2014 data, focusing on 2013) to evaluate revenue concentration and customer purchasing behavior. Used **Power Query** for data transformation and feature engineering (creating columns for Time/Day attributes and Price Brackets). Loaded the data into **Power Pivot** for data modeling and DAX measures, and used **Pivot Tables** to uncover portfolio risks (e.g., product dependency) and marketing opportunities.
+- **Tools Used:** Microsoft Excel (Power Query, Power Pivot, Pivot Tables), Data Modeling.
+- **[View LinkedIn Post](https://www.linkedin.com/posts/mohamed-sharra_dataanalysis-salesanalytics-datainsights-activity-7435695439204614145-EBsh)**
+
+---
+
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;Languages and Tools Stack</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="excel" width="45" height="45" title="Advanced Excel"/> &nbsp;
+    <img src="https://api.iconify.design/simple-icons:powerbi.svg?color=%23f2c811" alt="powerbi" width="45" height="45" title="Power BI"/> &nbsp;
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45" height="45" title="SQL"/> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45" title="Python"/> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45" title="Pandas"/> &nbsp;
+    <img src="https://api.iconify.design/simple-icons:databricks.svg?color=%23ff3621" alt="databricks" width="45" height="45" title="Databricks"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>🎓&nbsp;&nbsp;Professional Certifications</b></summary>
+  <br/>
+  <ul>
+    <li><b>Supply Chain Analytics Specialization</b> – Rutgers University (Coursera)</li>
+    <li><b>Excel Skills for Business Forecasting Specialization</b> – Macquarie University (Coursera)</li>
+    <li><b>Business Statistics and Analysis Specialization</b> – Rice University (Coursera)</li>
+    <li><b>Business Analyst with Power BI Program</b> – Dataquest in partnership with Institute of Analytics (IoA)</li>
+    <li><b>Associate Data Analyst in SQL</b> – DataCamp</li>
+    <li><b>Affiliate Member</b> – Institute of Analytics (IoA)</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🧠&nbsp;&nbsp;Business & Operational Insights Focus</b></summary>
+  <br/>
+  <p>In my analysis, I look at key business metrics to identify operational strengths and risks:</p>
+  <ul>
+    <li><b>Revenue Concentration:</b> Assessing portfolio diversification to ensure the business isn't overly dependent on a few top products or customers.</li>
+    <li><b>Purchasing Behavior:</b> Breaking down metrics like Average Order Value (AOV) and unit price trends to understand changes in sales performance.</li>
+    <li><b>Operational Features:</b> Engineering context-specific data points (like Weekday vs. Weekend splits and custom Price Types) to find targeted growth opportunities.</li>
+  </ul>
+</details>
