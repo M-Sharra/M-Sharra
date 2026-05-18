@@ -15,7 +15,7 @@ As an Economics graduate, I apply data analysis tools and economic intuition to 
 
 ### ✨&nbsp; Technical Skills & Profile
 
-- **Business & Time-Series Forecasting:** Utilizing Microsoft Excel and Python for predictive analysis and trend evaluation.
+- **Business & Time-Series Forecasting:** Utilizing Microsoft Excel for predictive analysis and trend evaluation.
 - **Data Visualization & Dashboards:** Building interactive reports and data models using Power BI and Advanced Excel (Power Query, Power Pivot).
 - **Data Querying & Processing:** Writing SQL queries for data extraction and leveraging Databricks for cloud data environments.
 - **Data Storytelling:** Translating structured numbers into factual business insights to support decision-making.
