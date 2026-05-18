@@ -42,11 +42,10 @@ As an Economics graduate, I apply data analysis tools and economic intuition to 
   <summary><b>🛠️&nbsp;&nbsp;Languages and Tools Stack</b></summary>
   <br/>
   <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="excel" width="45" height="45" title="Excel"/> &nbsp;
+    <img src="https://api.iconify.design/vscode-icons:file-type-excel.svg" alt="excel" width="45" height="45" title="Advanced Excel"/> &nbsp;
     <img src="https://api.iconify.design/simple-icons:powerbi.svg?color=%23f2c811" alt="powerbi" width="45" height="45" title="Power BI"/> &nbsp;
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45" height="45" title="SQL"/> &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45" title="Python"/> &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45" title="Pandas"/> &nbsp;
+    <img src="https://api.iconify.design/images:microsoft-sql-server.svg" alt="mssql" width="45" height="45" title="SQL"/> &nbsp;
+    <img src="https://api.iconify.design/logos:python.svg" alt="python" width="45" height="45" title="Python"/> &nbsp;
     <img src="https://api.iconify.design/simple-icons:databricks.svg?color=%23ff3621" alt="databricks" width="45" height="45" title="Databricks"/>
   </p>
 </details>
