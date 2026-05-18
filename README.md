@@ -44,7 +44,7 @@ As an Economics graduate, I apply data analysis tools and economic intuition to 
   <p align="left">
     <img src="https://api.iconify.design/vscode-icons:file-type-excel.svg" alt="excel" width="45" height="45" title="Advanced Excel"/> &nbsp;
     <img src="https://api.iconify.design/simple-icons:powerbi.svg?color=%23f2c811" alt="powerbi" width="45" height="45" title="Power BI"/> &nbsp;
-    <img src="https://api.iconify.design/images:microsoft-sql-server.svg" alt="mssql" width="45" height="45" title="SQL"/> &nbsp;
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45" height="45" title="SQL"/> &nbsp;
     <img src="https://api.iconify.design/logos:python.svg" alt="python" width="45" height="45" title="Python"/> &nbsp;
     <img src="https://api.iconify.design/simple-icons:databricks.svg?color=%23ff3621" alt="databricks" width="45" height="45" title="Databricks"/>
   </p>
