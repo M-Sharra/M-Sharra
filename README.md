@@ -24,21 +24,6 @@ As an Economics graduate, I apply data analysis tools and economic intuition to 
 
 ---
 
-### 📈 Completed Projects
-
-#### 1. 🚀 [Restaurant Sales Analysis Using Databricks & Power BI](https://www.linkedin.com/posts/mohamed-sharra_dataanalytics-powerbi-databricks-activity-7450282459201564672-B_8G)
-- **Description:** Analyzed a transactional dataset containing over **11 Million rows**. I utilized **Databricks** for cloud data processing, wrote **SQL queries** to join **7 relational tables**, and built a structured **Power BI** dashboard to visualize operational trends.
-- **Tools Used:** Databricks, SQL, Power BI, Data Modeling.
-- **[View LinkedIn Post](https://www.linkedin.com/posts/mohamed-sharra_dataanalytics-powerbi-databricks-activity-7450282459201564672-B_8G)**
-
-#### 2. 📉 [End-to-End Sales Performance & Revenue Concentration Analysis](https://www.linkedin.com/posts/mohamed-sharra_dataanalysis-salesanalytics-datainsights-activity-7435695439204614145-EBsh)
-- **Description:** An end-to-end sales analysis (2011–2014 data, focusing on 2013) to evaluate revenue concentration and customer purchasing behavior. Used **Power Query** for data transformation and feature engineering (creating columns for Time/Day attributes and Price Brackets). Loaded the data into **Power Pivot** for data modeling and DAX measures, and used **Pivot Tables** to uncover portfolio risks (e.g., product dependency) and marketing opportunities.
-- **Tools Used:** Microsoft Excel (Power Query, Power Pivot, Pivot Tables), Data Modeling.
-- **[View LinkedIn Post](https://www.linkedin.com/posts/mohamed-sharra_dataanalysis-salesanalytics-datainsights-activity-7435695439204614145-EBsh)**
-
----
-
-<details>
   <summary><b>🛠️&nbsp;&nbsp;Languages and Tools Stack</b></summary>
   <br/>
   <p align="left">
@@ -48,9 +33,7 @@ As an Economics graduate, I apply data analysis tools and economic intuition to 
     <img src="https://api.iconify.design/logos:python.svg" alt="python" width="45" height="45" title="Python"/> &nbsp;
     <img src="https://api.iconify.design/simple-icons:databricks.svg?color=%23ff3621" alt="databricks" width="45" height="45" title="Databricks"/>
   </p>
-</details>
 
-<details>
   <summary><b>🎓&nbsp;&nbsp;Professional Certifications</b></summary>
   <br/>
   <ul>
@@ -61,6 +44,5 @@ As an Economics graduate, I apply data analysis tools and economic intuition to 
     <li><b>Associate Data Analyst in SQL</b> – DataCamp</li>
     <li><b>Affiliate Member</b> – Institute of Analytics (IoA)</li>
   </ul>
-</details>
 
  
