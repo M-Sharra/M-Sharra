@@ -3,7 +3,7 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=160&section=header&color=gradient&fontColor=ffffff)
 
-# Mohamed Sharra (محمد شرع)
+# Mohamed Sharra (محمد شرًع)
 ### Data Analyst | Supply Chain Enthusiast
 
 *Turning data into insights · Building dashboards · Supporting data-driven decisions*
