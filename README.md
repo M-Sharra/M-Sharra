@@ -19,10 +19,10 @@ Economics graduate with a strong foundation in data analysis and business unders
 
 Focused on **Supply Chain Analytics** and **Data Storytelling**, transforming complex datasets into clear insights that support:
 
-- 📦 Inventory Optimization  
-- 📊 Business Performance Analysis  
-- 📣 Marketing Strategy  
-- 📈 Forecasting & Decision-Making  
+ 📦 Inventory Optimization  
+ 📊 Business Performance Analysis  
+ 📣 Marketing Strategy  
+ 📈 Forecasting & Decision-Making  
 
 ---
 
@@ -43,22 +43,22 @@ Focused on **Supply Chain Analytics** and **Data Storytelling**, transforming co
 
 ## 📊 Core Skills
 
-- 📈 **Business & Time-Series Forecasting**  
-- 📊 **Data Visualization & Dashboard Design (Power BI)**  
-- 🧾 **SQL Data Extraction & Transformation**  
-- ⚙️ **Data Processing (Databricks)**  
-- 🎯 **Data Storytelling & Business Insights**
+ 📈 **Business & Time-Series Forecasting**  
+ 📊 **Data Visualization & Dashboard Design (Power BI)**  
+ 🧾 **SQL Data Extraction & Transformation**  
+ ⚙️ **Data Processing (Databricks)**  
+ 🎯 **Data Storytelling & Business Insights**
 
 ---
 
 ## 🎓 Certifications
 
-- 🎓 Supply Chain Analytics Specialization – Rutgers University  
-- 🎓 Excel Skills for Business Forecasting – Macquarie University  
-- 🎓 Business Statistics & Analysis – Rice University  
-- 🎓 Power BI Business Analyst Program – Dataquest & IoA  
-- 🎓 Associate Data Analyst in SQL – DataCamp  
-- 🎓 Affiliate Member – Institute of Analytics (IoA)
+ 🎓 Supply Chain Analytics Specialization – Rutgers University  
+ 🎓 Excel Skills for Business Forecasting – Macquarie University  
+ 🎓 Business Statistics & Analysis – Rice University  
+ 🎓 Power BI Business Analyst Program – Dataquest & IoA  
+ 🎓 Associate Data Analyst in SQL – DataCamp  
+ 🎓 Affiliate Member – Institute of Analytics (IoA)
 
 ---
 
